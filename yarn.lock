@@ -1881,9 +1881,9 @@ quill-delta@3.5.0:
     extend "^3.0.0"
     fast-diff "1.1.1"
 
-quill@^1.2.0:
+quill@^1.2.3:
   version "1.2.3"
-  resolved "https://registry.yarnpkg.com/quill/-/quill-1.2.3.tgz#8fc62ed66d8173edf9bc1d9fb777dd74eb0632ee"
+  resolved "https://artrepo.vegvesen.no/artifactory/api/npm/npm-all/quill/-/quill-1.2.3.tgz#8fc62ed66d8173edf9bc1d9fb777dd74eb0632ee"
   dependencies:
     clone "~2.1.1"
     deep-equal "~1.0.1"

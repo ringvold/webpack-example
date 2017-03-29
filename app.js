@@ -19,7 +19,7 @@ Quill.register({
     'formats/list-item': ListItem,
 });
 
-console.log('Starter Quill');
+console.log('Starting Quill');
 var quill = new Quill('#quill', { theme: 'snow' });
 
 export default Quill;
